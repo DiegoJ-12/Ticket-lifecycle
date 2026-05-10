@@ -10,10 +10,15 @@ The purpose of this project is to demonstrate the full osTicket ticket lifecycle
 <h2>Environments and Technologies Used</h2>
 
 -Operating System:Windows 10/11
+
 -Server Stack XAMPP(Apache, MySQL, PHP)
+
 -Ticketing System: osTicket
+
 -Database Tool: phpMyAdmin
+
 -Web tools: Chrome Web Browser
+
 
 <h2>Operating Systems Used </h2>
 
