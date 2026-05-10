@@ -31,15 +31,9 @@ The purpose of this project is to demonstrate the full osTicket ticket lifecycle
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1535" height="1023" alt="image" src="https://github.com/user-attachments/assets/872a73ea-cb7b-443d-8169-77912e48f86a" />
+<p>Step 1: Create end user tickets to simulate the cycle of tickets, to create a ticket you navigate to http://localhost/upload/open.php. Once in the support center click "open New ticket". Create atleast 5 tickets with with issues.
 
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
