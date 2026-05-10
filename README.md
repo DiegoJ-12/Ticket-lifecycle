@@ -60,7 +60,10 @@ Issue: The break room printer keeps showing a false ‘paper jam’ error.
 5.Samantha Reed – samantha.reed@example.com
 
 Issue: I need access to the shared drive, but it says I don’t have permission.
-<img width="1521" height="1023" alt="image" src="https://github.com/user-attachments/assets/ed28077f-2ad0-4a59-9ef8-03e78b34054e" />
+<img width="1535" height="1023" alt="image" src="https://github.com/user-attachments/assets/aa51c375-8a98-4695-af21-107754be1544" />
+<p>Step 2:Log in as an Agent (Support Department) open a web browser and navigate to the agent (staff) login page
+http://localhost/osTicket/scp/login.php. Enter the username and password for the agent assigned to the Support Department, then click Log In to access the agent dashboard and begin managing tickets.</p>
+
 
 
 
