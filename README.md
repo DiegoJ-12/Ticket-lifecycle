@@ -43,35 +43,24 @@ Example Tickets You Can Use:
 
 1.Maria Lopez – maria.lopez@example.com
 
-Issue: “I can’t log into my employee portal after multiple password resets.”
+Issue: I can’t log into my employee portal after multiple password resets.
 
 2.Jason Miller – j.miller@example.com
 
-Issue: “My computer freezes every time I open Excel.”
+Issue: My computer freezes every time I open Excel.
 
 3.Aisha Robinson – arobinson@example.com
 
-Issue: “Outlook isn’t syncing, and I’m not receiving emails.”
+Issue: Outlook isn’t syncing, and I’m not receiving emails.
 
 4.Kevin Tran – kevin.tran@example.com
 
-Issue: “The break room printer keeps showing a false ‘paper jam’ error.”
+Issue: The break room printer keeps showing a false ‘paper jam’ error.
 
 5.Samantha Reed – samantha.reed@example.com
 
-Issue: “I need access to the shared drive, but it says I don’t have permission.”
+Issue: I need access to the shared drive, but it says I don’t have permission.
+<img width="1521" height="1023" alt="image" src="https://github.com/user-attachments/assets/ed28077f-2ad0-4a59-9ef8-03e78b34054e" />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
